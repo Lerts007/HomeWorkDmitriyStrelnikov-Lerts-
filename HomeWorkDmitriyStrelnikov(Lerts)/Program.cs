@@ -21,11 +21,14 @@ namespace HomeWorkDmitriyStrelnikov_Lerts_
             Console.Write("Введите ваш вес: ");
             float weight = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("\n\tВывод спомощью склеивания.");
+            Console.WriteLine("\n\tВывод с помощью склеивания.");
             Console.WriteLine("Ваше имя: " + name + "\nВаша фамилия: " + surname + "\nВаш возраст: " + years + "\nВаш рост: " + height + "\nВаш вес: " + weight);
 
-            Console.WriteLine("\n\tВывод спомощью форматированного вывода");
+            Console.WriteLine("\n\tВывод с помощью форматированного вывода");
             Console.WriteLine("Ваше имя: {0} \nВаша фамилия: {1} \nВаш возраст: {2} \nВаш рост: {3} \nВаш вес: {4}", name, surname, years, height, weight);
+
+            Console.WriteLine("\n\tВывод с помощью знака $");
+            Console.WriteLine($"Ваше имя: {name} \nВаша фамилия: {surname} \nВаш возраст: {years} \nВаш рост: {height} \nВаш вес: {weight}");
 
             Console.ReadLine();
         }
