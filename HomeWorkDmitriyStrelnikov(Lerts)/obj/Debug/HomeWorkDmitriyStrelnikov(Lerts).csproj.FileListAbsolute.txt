@@ -1,0 +1,7 @@
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\bin\Debug\HomeWorkDmitriyStrelnikov(Lerts).exe.config
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\bin\Debug\HomeWorkDmitriyStrelnikov(Lerts).exe
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\bin\Debug\HomeWorkDmitriyStrelnikov(Lerts).pdb
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts).csprojAssemblyReference.cache
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts).csproj.CoreCompileInputs.cache
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts).exe
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov(Lerts)\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts).pdb
