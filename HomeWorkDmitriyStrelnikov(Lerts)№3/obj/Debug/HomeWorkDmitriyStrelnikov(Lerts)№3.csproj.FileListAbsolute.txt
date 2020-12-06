@@ -4,3 +4,4 @@ D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\Home
 D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov-Lerts-\HomeWorkDmitriyStrelnikov(Lerts)№3\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts)№3.csproj.CoreCompileInputs.cache
 D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov-Lerts-\HomeWorkDmitriyStrelnikov(Lerts)№3\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts)№3.exe
 D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov-Lerts-\HomeWorkDmitriyStrelnikov(Lerts)№3\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts)№3.pdb
+D:\Geekbrains\Основы языка C#\1\HomeWorkDmitriyStrelnikov(Lerts)\HomeWorkDmitriyStrelnikov-Lerts-\HomeWorkDmitriyStrelnikov(Lerts)№3\obj\Debug\HomeWorkDmitriyStrelnikov(Lerts)№3.csprojAssemblyReference.cache
