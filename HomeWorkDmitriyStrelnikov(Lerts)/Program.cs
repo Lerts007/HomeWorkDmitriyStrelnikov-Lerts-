@@ -10,6 +10,8 @@ namespace HomeWorkDmitriyStrelnikov_Lerts_
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Задангие №1");
+
             Console.Write("Введите ваше имя: ");
             string name = Console.ReadLine();
             Console.Write("Введите вашу фамилию: ");
@@ -29,6 +31,12 @@ namespace HomeWorkDmitriyStrelnikov_Lerts_
 
             Console.WriteLine("\n\tВывод с помощью знака $");
             Console.WriteLine($"Ваше имя: {name} \nВаша фамилия: {surname} \nВаш возраст: {years} \nВаш рост: {height} \nВаш вес: {weight}");
+
+            Console.WriteLine("Задангие №2");
+
+            Console.WriteLine($"Ваш рост: {height} \nВаш вес: {weight}");
+            float BMI = weight / (height * 2);
+            Console.WriteLine($"Ваш Индекс Массы Тела = {BMI}");
 
             Console.ReadLine();
         }
